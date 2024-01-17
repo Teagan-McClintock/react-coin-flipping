@@ -3,7 +3,7 @@ import './App.css';
 
 /**Renders a coin flip game
  *
- * App -> Coin
+ * App -> Game -> Coin
  */
 function App() {
   return (
